@@ -6,7 +6,7 @@ sections:
     section_id: store_section
   - type: featured_products_section
     section_id: featured_products_section
-    title: "\x1D"
+    title: Sản Phẩm Bán Chạy
     icon: true
     featured_products:
       - content/pages/products/plant1.md
